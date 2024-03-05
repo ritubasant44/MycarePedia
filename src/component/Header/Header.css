@@ -1,0 +1,178 @@
+/* .logo {
+width: 242px;
+height: 54px;
+top: 18px;
+left: 170px;
+} */
+.rounded {
+  border: 1px solid #072a5d;
+  height: 40px;
+}
+.buttonclass{
+    top: 4px;
+    height: 30px;
+    position: relative;
+    background-color: #072A5D;
+    width: 30px;
+}
+.svgelement{
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    color: #fff;
+}
+.element {
+    width: 90.19px;
+    margin-top: 5px;
+    border-radius: 5px;
+    background: #F4F9FF;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0em;
+    text-align: left;
+    align-items: center;
+    color: #04285B !important;
+}
+.navbar .nav-link.dropdown-toggle::after {
+    display: none !important;
+}
+.search-input {
+    border: none;
+  }
+
+.widthoful ul {
+    width: 120px;
+}
+.loginbutton {
+    width: 172px;
+    height: 37px;
+    left: 122px;
+    border-radius: 50px;
+    /* background-color: #04285B; */
+    background: linear-gradient(to right, #04285B, #00A7DC);
+    font-size: 13px;
+    color: #fff;
+}
+.bottomnav {
+    background-color: #072A5D !important;
+    height: 51px;
+    color: #fff !important;
+}
+.bottomnavlink a {
+    font-size: 12px !important;
+}
+.contentalign {
+    padding-left: 17%;
+    padding-right: 17%;
+    position: relative;
+}
+.bg-image {
+    background-image: url("../../../public//images//topbackground.jpg"); /* Adjust the path as per your project structure */
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+  }
+  .positionset {
+    top: 142px;
+    position: absolute;
+    right: 70px;
+    width: 537px;
+  }
+  .bannerimage {
+    height: 390px;
+    width: 418px;
+  }
+  .topbpositionleft {
+    top: 270px;
+    position: absolute;
+    left: 171px;
+    width: 537px;
+  }
+  .trybutton {
+    color: #04285B !important;
+    border-radius: 20px;
+    border-color: #04285B !important;
+    font-size: 10px;
+    font-weight: 600;
+  }
+  .cardimage {
+    border-radius: 100px;
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    left: 37%;
+    top: -31px;
+  }
+  .circleclass {
+    background-color: #04285B;
+    border-radius: 100px;
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    left: 30%;
+    top: -31px;
+  }
+  .circleclass img {
+    height: 40px;
+    width: 40px;
+    /* margin-top: 36px; */
+    /* margin-right: 32px; */
+    position: absolute;
+    top: 8px;
+    left: 10px;
+  }
+  .cardbtn {
+    font-size: 11px;
+    border: 1px solid #04285B;
+    color: #04285B;
+    border: radius;
+    border-radius: 20px;
+    font-weight: 500;
+  }
+  .special {
+    margin-top: 27px;
+    background-color: #04285B;
+    font-size: 13px !important;
+    width: 192px;
+  }
+  .benefittwo {
+    font-size: 27px;
+    width: 300px;
+    color: #04285B;
+    font-weight: 400;
+  }
+  .trybuttonbenefit {
+    color: #04285B !important;
+    border-radius: 20px;
+    border-color: #04285B !important;
+    font-size: 14px;
+    font-weight: 600;
+    width: 270px;
+    margin-left: 50px;
+    height: 39px;
+  }
+  .featured {
+    font-size: 23px;
+    /* width: 300px; */
+    color: #04285B;
+    font-weight: 400;
+  }
+  .abc ul li {
+    margin-left: 15px
+  }
+  .btnstyles {
+    border-radius: 20px;
+    height: 40px;
+    width: 40px;
+    border: 1px solid #04285B;
+    margin-left: 10px
+  }
+  .recomend {
+    position: absolute;
+    bottom: 113px;
+    left: 15px;
+    font-size: 12px;
+    color: #04285B;
+    font-weight: 600;
+  }
